@@ -46,14 +46,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:gonglr@example.com'
+    link: 'mailto:532710017@qq.com'
   - icon: weibo
     icon_pack: fab
     link: 'https://weibo.com/u/3591415497'
     # label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   # - icon: github
