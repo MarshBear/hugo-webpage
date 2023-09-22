@@ -54,6 +54,10 @@ social:
     # label: Follow me on Twitter
     display:
       header: true
+    design:
+    spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+      padding: ["0", "0", "0", "20px"]
   - icon: comments
     icon_pack: fas
     link: 'mailto:532710017@qq.com'
