@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Lurong Gong 龚璐蓉
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Lurong
+last_name: Gong
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Hangzhou Normal University
 
 # Organizations/Affiliations to show in About widget
 organizations:
