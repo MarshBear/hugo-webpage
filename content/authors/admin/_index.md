@@ -71,7 +71,7 @@ social:
   #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '2021112021078@hznu.edu.cn'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
