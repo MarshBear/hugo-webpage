@@ -43,10 +43,6 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-design:
-    spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-      padding: ["20px", "0", "20px", "0"]
 social:
   - icon: weibo
     icon_pack: fab
@@ -57,7 +53,7 @@ social:
     design:
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["0", "0", "0", "20px"]
+        padding: ["0", "0", "0", "50px"]
   - icon: comments
     icon_pack: fas
     link: 'mailto:532710017@qq.com'
