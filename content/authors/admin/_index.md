@@ -44,12 +44,19 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
+  design:
+    spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+      padding: ["20px", "0", "20px", "0"]
   - icon: weibo
     icon_pack: fab
     link: 'https://weibo.com/u/3591415497'
     # label: Follow me on Twitter
+    display:
+      header: true
+  - icon: comments
+    icon_pack: fas
+    link: 'mailto:532710017@qq.com'
     display:
       header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
