@@ -34,11 +34,10 @@ interests:
 education:
   courses:
     - course: MA in Subject Teaching (Biology)
-      institution: Hangzhou Normal University
-      year: '2021-now'
-    - course: BSc in Science Education
-      institution: Shaoxing University
-      year: '2017-2021'
+      institution: Hangzhou Normal University, 2021-
+      # year: '2021-now'
+    - course: BEd in Science Education
+      institution: Shaoxing University, 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,13 +46,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#'
+    link: 'mailto:gonglr@example.com'
   - icon: weibo
     icon_pack: fab
-    link: '/#'
+    link: 'https://weibo.com/u/3591415497'
     # label: Follow me on Twitter
-    # display:
-      # header: true
+    display:
+      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
