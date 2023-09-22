@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:532710017@qq.com'
+    # link: 'mailto:532710017@qq.com'
   - icon: weibo
     icon_pack: fab
     link: 'https://weibo.com/u/3591415497'
