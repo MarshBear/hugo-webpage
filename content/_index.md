@@ -64,10 +64,10 @@ sections:
   #   design:
   #     columns: '2'
 
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+  # - block: accomplishments
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'Accomplish&shy;ments'
   #     subtitle:
   #     # Date format: https://wowchemy.com/docs/customization/#date-format
   #     date_format: Jan 2006
@@ -168,6 +168,7 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
+
   # - block: collection
   #   id: featured
   #   content:
@@ -180,20 +181,21 @@ sections:
   #     columns: '2'
   #     view: card
 
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: |-
-  #       {{% callout note %}}
-  #       Quickly discover relevant content by [filtering publications](./publication/).
-  #       {{% /callout %}}
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: true
-  #   design:
-  #     columns: '2'
-  #     view: citation
+  - block: collection
+    content:
+      title: Publications
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      columns: '1'
+      view: compact
+
   # - block: collection
   #   id: talks
   #   content:
