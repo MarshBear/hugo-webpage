@@ -11,6 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
   # - block: features
   #   content:
   #     title: Skills
@@ -193,8 +194,8 @@ sections:
           - publication
         exclude_featured: false
     design:
-      columns: '1'
-      view: citation
+      columns: '2'
+      view: compact
 
   # - block: collection
   #   id: talks
