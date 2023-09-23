@@ -1,16 +1,20 @@
 ---
-title: "An example journal article"
+title: "Characterization and phylogenetic analysis of the mitochondrial genome of *Sarcocheilichthys sinensis* (Bleeker) from Baima Hu Lake"
 authors:
 - admin
-- Robert Ford
+- Yuexi Lu
+- Lizhen Gu
+- Lihui Dong
+- Jiangfeng Ren
+- Shaobao Yang
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2019-12-23"
+doi: "10.1080/23802359.2019.1710280"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-12-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +23,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Mitochondrial DNA Part B*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "*Sarcocheilichthys sinensis* (Bleeker), is a small-sized benthopelagic fish with ornamental value. In the present study, the complete mitochondrial genome of *S. sinensis* was sequenced and determined. The complete mitogenome of *S. sinensis* was 16,683 bp in length, consisting of 22 tRNA genes, 13 protein-coding genes, 2 rRNA genes, and 2 non-coding regions. The overall base composition of the *S. sinensis* mitogenome is 30.50% A, 26.28% T, 26.60% C, and 16.61% G, exhibiting obvious AT bias (56.79%). The phylogenetic analysis showed that *S. sinensis* clustered in genus *Sarcocheilichthys*. Present study provides useful data to population genetics and conservation biology of *Sarcocheilichthys* fishes."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "*Sarcocheilichthys sinensis* (Bleeker), is a small-sized benthopelagic fish with ornamental value. In the present study, the complete mitochondrial genome of *S. sinensis* was sequenced and determined. The complete mitogenome of *S. sinensis* was 16,683 bp in length, consisting of 22 tRNA genes, 13 protein-coding genes, 2 rRNA genes, and 2 non-coding regions. The overall base composition of the *S. sinensis* mitogenome is 30.50% A, 26.28% T, 26.60% C, and 16.61% G, exhibiting obvious AT bias (56.79%). The phylogenetic analysis showed that *S. sinensis* clustered in genus *Sarcocheilichthys*. Present study provides useful data to population genetics and conservation biology of *Sarcocheilichthys* fishes."
 
 tags:
 - Source Themes
@@ -65,12 +69,3 @@ projects: []
 # slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
