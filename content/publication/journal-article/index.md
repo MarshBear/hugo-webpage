@@ -1,5 +1,5 @@
 ---
-title: "Characterization and phylogenetic analysis of the mitochondrial genome of <i> Sarcocheilichthys sinensis </i> (Bleeker) from Baima Hu Lake"
+title: Characterization and phylogenetic analysis of the mitochondrial genome of <i> Sarcocheilichthys sinensis </i> (Bleeker) from Baima Hu Lake
 authors:
 - admin
 - Yuexi Lu
@@ -39,7 +39,7 @@ tags:
 featured: false
 
 links:
-- name: ""
+- name: "Link"
   url: "https://doi.org/10.1080/23802359.2019.1710280"
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
@@ -62,7 +62,7 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
