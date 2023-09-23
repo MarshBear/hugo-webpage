@@ -1,5 +1,5 @@
 ---
-title: Characterization and phylogenetic analysis of the mitochondrial genome of <i> Sarcocheilichthys sinensis </i> (Bleeker) from Baima Hu Lake
+title: "Characterization and phylogenetic analysis of the mitochondrial genome of *Sarcocheilichthys sinensis* (Bleeker) from Baima Hu Lake"
 authors:
 - admin
 - Yuexi Lu

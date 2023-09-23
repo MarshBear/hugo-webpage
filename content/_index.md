@@ -161,14 +161,6 @@ sections:
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
 
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: Hello
-    design:
-      columns: '1'
-
   # - block: collection
   #   id: featured
   #   content:
@@ -195,6 +187,14 @@ sections:
     design:
       columns: '2'
       view: compact
+
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: Hello world.
+    design:
+      columns: '1'
 
   # - block: collection
   #   id: talks
