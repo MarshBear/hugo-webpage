@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Lurong Gong
-subtitle: 龚璐蓉
+title: Lurong Gong 龚璐蓉
 
 # Full name (for SEO)
 first_name: Lurong
